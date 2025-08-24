@@ -1,0 +1,149 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "theme.osd.enableShadow": true,
+  "theme.bar.buttons.modules.ram.enableBorder": true,
+  "bar.customModules.ram.labelType": "percentage",
+  "menus.clock.time.military": true,
+  "menus.clock.weather.enabled": false,
+  "theme.bar.menus.enableShadow": false,
+  "menus.transitionTime": 200,
+  "menus.transition": "crossfade",
+  "scalingPriority": "gdk",
+  "theme.bar.buttons.enableBorders": false,
+  "theme.bar.floating": false,
+  "theme.bar.enableShadow": false,
+  "menus.media.hideAuthor": false,
+  "menus.media.displayTimeTooltip": true,
+  "menus.media.hideAlbum": false,
+  "menus.media.displayTime": true,
+  "theme.osd.enable": true,
+  "theme.osd.active_monitor": false,
+  "theme.osd.border.size": "0.2em",
+  "theme.osd.radius": "0.5em",
+  "menus.clock.time.hideSeconds": false,
+  "menus.clock.weather.unit": "metric",
+  "menus.clock.weather.location": "Berlin",
+  "theme.bar.buttons.modules.microphone.enableBorder": true,
+  "bar.customModules.microphone.label": true,
+  "bar.customModules.ram.round": true,
+  "theme.bar.buttons.modules.cpuTemp.enableBorder": true,
+  "theme.bar.buttons.modules.hyprsunset.enableBorder": false,
+  "menus.power.showLabel": false,
+  "menus.power.lowBatteryNotification": false,
+  "menus.power.confirmation": false,
+  "theme.bar.buttons.modules.hypridle.enableBorder": false,
+  "menus.dashboard.controls.enabled": false,
+  "menus.dashboard.stats.enable_gpu": true,
+  "menus.dashboard.shortcuts.left.shortcut1.command": "zen-browser",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "󰇩",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Zen",
+  "menus.dashboard.shortcuts.enabled": true,
+  "theme.bar.menus.monochrome": false,
+  "wallpaper.pywal": true,
+  "theme.bar.menus.opacity": 100,
+  "theme.matugen": true,
+  "wallpaper.image": "/run/media/drac/T7/Datasets/Styles/OriWotW/scenery_only/oriwotw_udufDl0a6W.png",
+  "theme.bar.transparent": true,
+  "wallpaper.enable": true,
+  "theme.matugen_settings.mode": "dark",
+  "theme.matugen_settings.scheme_type": "fruit-salad",
+  "theme.matugen_settings.variation": "standard_1",
+  "theme.bar.buttons.style": "default",
+  "theme.bar.opacity": 100,
+  "theme.bar.buttons.background_opacity": 100,
+  "theme.bar.buttons.background_hover_opacity": 85,
+  "theme.bar.buttons.opacity": 65,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "theme.bar.buttons.modules.cava.enableBorder": false,
+  "bar.customModules.cava.showIcon": true,
+  "bar.customModules.cava.stereo": false,
+  "theme.bar.buttons.modules.worldclock.enableBorder": false,
+  "theme.bar.buttons.modules.submap.enableBorder": false,
+  "theme.bar.buttons.modules.updates.enableBorder": false,
+  "bar.customModules.cava.barCharacters": [
+    "⠀",
+    "⡀",
+    "⣀",
+    "⡄",
+    "⣄",
+    "⡆",
+    "⡇",
+    "⣆",
+    "⣇",
+    "⣧",
+    "⣷",
+    "⣾",
+    "⣿"
+  ],
+  "theme.matugen_settings.contrast": 0.4,
+  "theme.bar.border.location": "none",
+  "theme.bar.layer": "bottom",
+  "theme.bar.margin_top": "0.5em",
+  "theme.bar.margin_bottom": "0em",
+  "theme.bar.buttons.separator.width": "0.1em",
+  "theme.bar.buttons.separator.margins": "0.15em",
+  "bar.launcher.autoDetectIcon": false,
+  "theme.bar.buttons.dashboard.enableBorder": false,
+  "theme.bar.buttons.workspaces.enableBorder": false,
+  "bar.workspaces.monitorSpecific": true,
+  "bar.workspaces.show_icons": false,
+  "bar.workspaces.show_numbered": false,
+  "bar.workspaces.workspaceMask": false,
+  "bar.workspaces.showWsIcons": true,
+  "bar.workspaces.showApplicationIcons": false,
+  "bar.workspaces.applicationIconOncePerWorkspace": true,
+  "bar.workspaces.showAllActive": true,
+  "bar.workspaces.numbered_active_indicator": "underline",
+  "theme.bar.buttons.workspaces.smartHighlight": true,
+  "theme.bar.buttons.windowtitle.enableBorder": false
+}
